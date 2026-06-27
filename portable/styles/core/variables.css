@@ -10,13 +10,13 @@
   --font-mono: mono;
   
   --color-focus: oklch(73.2610% 0.1718 42.387);
-  --color-shine: oklch(100.000% 0.0250 42.000);
+  --color-shine: oklch(96.416% 0.00011 271.152);
   --color-shade: oklch(10.0000% 0.1000 42.000);
 }
 
 :root.dark {
   --color-focus: oklch(63.639% 0.2286 298.867);
   --color-shade: oklch(100.000% 0.0250 42.000);
-  --color-shine: oklch(17.972% 0.02862 293.131);
+  --color-shine: oklch(17.304% 0.00002 271.152);
 }
 
